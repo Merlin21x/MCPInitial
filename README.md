@@ -2,6 +2,10 @@
 
 Este proyecto implementa un servidor básico Model Context Protocol (MCP) en TypeScript, siguiendo las mejores prácticas y la especificación oficial. Está diseñado para ser utilizado y depurado con GitHub Copilot y otros clientes MCP compatibles.
 
+<a href="https://glama.ai/mcp/servers/@Merlin21x/MCPInitial">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/@Merlin21x/MCPInitial/badge" alt="Basic Server MCP server" />
+</a>
+
 ## Recursos útiles
 - [Documentación oficial de MCP](https://modelcontextprotocol.io/)
 - [SDK TypeScript](https://github.com/modelcontextprotocol/typescript-sdk)
